@@ -7,6 +7,7 @@ module.exports = {
     "./**/*.jsx",
     "./**/*.tsx",
     "./App.js",
+    "../BudgetBuddy/**/*.{js,jsx,ts,tsx}",
     "./node_modules/nativewind/**/*.js",
   ],
   theme: {
